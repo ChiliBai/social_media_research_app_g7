@@ -40,43 +40,43 @@ const INITIAL_POSTS: Post[] = [
     comments: [],
     isLiked: false
   },
-  {
-    id: 'p3',
-    user: {
-      id: 'u4',
-      name: '吃货美食笔记',
-      handle: '@foodie_daily',
-      avatar: 'https://picsum.photos/seed/u4/200/200',
-      following: 210,
-      followers: 15600
-    },
-    content: '被这家火锅店的菜品惊艳到了！鹅肠爽脆，虾滑Q弹，下次还要带朋友来！推荐指数：⭐⭐⭐⭐⭐ #北京美食 #火锅 #吃货日记',
-    images: ['https://picsum.photos/seed/food1/600/400'],
-    createdAt: '5分钟前',
-    likes: 218,
-    reposts: 34,
-    commentsCount: 56,
-    comments: [],
-    isLiked: false
-  },
-  {
-    id: 'p2',
-    user: {
-      id: 'u3',
-      name: '程序员小白A',
-      handle: '@dev_rookie',
-      avatar: 'https://picsum.photos/seed/u3/200/200',
-      following: 340,
-      followers: 890
-    },
-    content: '坚持打卡第21天！今天终于搞定了这个 Bug，成就感爆棚！这就是代码的魅力吗？💻 #程序员 #学习打卡 #前端',
-    createdAt: '8分钟前',
-    likes: 89,
-    reposts: 12,
-    commentsCount: 24,
-    comments: [],
-    isLiked: false
-  },
+  // {
+  //   id: 'p3',
+  //   user: {
+  //     id: 'u4',
+  //     name: '吃货美食笔记',
+  //     handle: '@foodie_daily',
+  //     avatar: 'https://picsum.photos/seed/u4/200/200',
+  //     following: 210,
+  //     followers: 15600
+  //   },
+  //   content: '被这家火锅店的菜品惊艳到了！鹅肠爽脆，虾滑Q弹，下次还要带朋友来！推荐指数：⭐⭐⭐⭐⭐ #北京美食 #火锅 #吃货日记',
+  //   images: ['https://picsum.photos/seed/food1/600/400'],
+  //   createdAt: '5分钟前',
+  //   likes: 218,
+  //   reposts: 34,
+  //   commentsCount: 56,
+  //   comments: [],
+  //   isLiked: false
+  // },
+  // {
+  //   id: 'p2',
+  //   user: {
+  //     id: 'u3',
+  //     name: '程序员小白A',
+  //     handle: '@dev_rookie',
+  //     avatar: 'https://picsum.photos/seed/u3/200/200',
+  //     following: 340,
+  //     followers: 890
+  //   },
+  //   content: '坚持打卡第21天！今天终于搞定了这个 Bug，成就感爆棚！这就是代码的魅力吗？💻 #程序员 #学习打卡 #前端',
+  //   createdAt: '8分钟前',
+  //   likes: 89,
+  //   reposts: 12,
+  //   commentsCount: 24,
+  //   comments: [],
+  //   isLiked: false
+  // },
   {
     id: 'p1',
     user: {
